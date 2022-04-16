@@ -20,8 +20,8 @@ text_skin: default # "default" (default), "dark", "forest", "ocean", "chocolate"
 highlight_theme: default # "default" (default), "tomorrow", "tomorrow-night", "tomorrow-night-eighties", "tomorrow-night-blue", "tomorrow-night-bright"
 url     : http://javaboy666.github.io
 baseurl : # does not include hostname
-title   : 江南一点雨
-description: 电子书示例网站，关注微信公众号：江南一点雨 ，回复 2TB 获取超 2TB 免费 Java 教程。
+title   : 一万本书@一万本书
+description: 电子书示例网站，关注微信公众号：一万本书 ，回复 2TB 获取超 2TB 免费 电子书。
 
 
 ## => Language and Timezone
@@ -34,7 +34,7 @@ timezone: # see https://en.wikipedia.org/wiki/List_of_tz_database_time_zones for
 ##############################
 author:
   type      : # "person" (default), "organization"
-  name      : 江南一点雨
+  name      : 一万本书@一万本书
   url       :
   avatar    : https://www.javaboy.org/images/sb/javaboy.jpg
   bio       : I am an amazing person.
