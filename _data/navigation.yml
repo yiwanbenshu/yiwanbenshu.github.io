@@ -51,9 +51,9 @@ header:
 docs-zh:
   - title:      导航示例
     children:
-      - title: Welcome
+      - title: 欢迎 Welcome
         url: https://javaboy666.github.io/2018/07/01/welcome.html
-      - title: Post with Header Image
+      - title: 知识体系
         url: https://javaboy666.github.io/2018/06/01/header-image.html
-      - title:  Java 搭建 SSM
+      - title:  HTML创建电子书
         url:    http://springboot.javaboy.org/2019/0528/javassm
