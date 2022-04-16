@@ -51,6 +51,8 @@ header:
 docs-zh:
   - title:      本站导航
     children:
+      - title: 首页
+        url: https://yiwanbenshu.github.io/
       - title: 欢迎 Welcome
         url: https://yiwanbenshu.github.io/2018/07/01/welcome.html
       - title: 知识体系化
