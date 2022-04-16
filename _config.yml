@@ -39,8 +39,15 @@ author:
   avatar    : https://www.javaboy.org/images/sb/javaboy.jpg
   bio       : I am an amazing person.
   email     : yiwanbenshu@hotmail.com
-  zhihu     : wang-song-9 # "user_name" the last part of your profile url, e.g. https://www.zhihu.com/people/user_name
   github    : lenve # "user_name" the last part of your profile url, e.g. https://github.com/user_name
+  tiktok    : lenve # "user_name" the last part of your profile url, e.g. https://github.com/user_name
+  bilibili    : lenve # "user_name" the last part of your profile url, e.g. https://github.com/user_name
+  zhihu     : wang-song-9 # "user_name" the last part of your profile url, e.g. https://www.zhihu.com/people/user_name
+  小红书    : lenve # "user_name" the last part of your profile url, e.g. https://github.com/user_name
+  YouTube    : lenve # "user_name" the last part of your profile url, e.g. https://github.com/user_name
+  Facebook    : lenve # "user_name" the last part of your profile url, e.g. https://github.com/user_name
+  Twitter    : lenve # "user_name" the last part of your profile url, e.g. https://github.com/user_name
+  Instagram    : lenve # "user_name" the last part of your profile url, e.g. https://github.com/user_name
 
 
 ## => GitHub Repository (if the site is hosted by GitHub)
